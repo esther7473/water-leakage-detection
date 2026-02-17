@@ -27,4 +27,4 @@ The Isolation Forest algorithm identifies anomalies by constructing multiple ran
 ## Additional Information
 
 - **Read the report:** [Google Drive](https://docs.google.com/presentation/d/135wj_trh2rsZ_eNXabBpfaKIyxH9gDa-/edit?usp=sharing&ouid=110200182022425202511&rtpof=true&sd=true)
-- **Co-authors:** [Aurore FOHOUNDI](mailto:fohoundibehiblo@gmail.com)
+- **Co-authors:** [Serge Ndoumin](mailto:ndoumins@gmail.com)
